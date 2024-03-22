@@ -7,7 +7,7 @@ This is a repository for the codes we have tried out in handling missing entries
   src="https://github.com/LiangSylar/Time-Series-Forecasting-on-Electricity-Consumption-Data-for-A-Commercial-Building/assets/64362092/554f9f46-78f9-4456-9c65-80a8b7b07ad9"
   alt="Image."
   height="200">
-  <figcaption>Figure. An example of our fitting resluts</figcaption>
+  <figcaption>Figure. An example of our fitting results. The blue part is true data, and the orange color is our forecasting values.</figcaption>
 </figure> 
 <br>
 This is a collaboration project. Thanks to my incredible teammates Guiming Chen and Chenang Li! 
